@@ -1,6 +1,4 @@
-Codeforces Problem
-
-Problem links
+Codeforces Problem Links
 
 Problemset-1A : https://codeforces.com/problemset/problem/1/A
 

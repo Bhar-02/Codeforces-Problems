@@ -1,5 +1,4 @@
 //Codeforces problemset-1A
-https://codeforces.com/problemset/problem/1/A
 #include <iostream>
 #include <math.h>
 using namespace std;

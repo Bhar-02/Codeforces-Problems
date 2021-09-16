@@ -4,7 +4,7 @@
 #include <stdlib.h>
 using namespace std;
 int main(){
-	int t;
+	int t;//input no. of testcases
 	cin>>t;
 	while (t--){
 		int n;

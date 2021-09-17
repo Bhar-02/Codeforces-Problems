@@ -11,9 +11,7 @@ int main(){
 		if (isupper(s1[i])){
 			s1[i]=tolower(s1[i]);
 		}
-	}
-	for (int i=0;i<len;i++){
-		if (isupper(s2[i])){
+        if (isupper(s2[i])){
 			s2[i]=tolower(s2[i]);
 		}
 	}

@@ -14,4 +14,4 @@ Problemset-4A : https://codeforces.com/problemset/problem/4/A
 
 Problemset-71A : https://codeforces.com/problemset/problem/71/A
 
-Problemset-231 a : https://codeforces.com/contest/231/problem/A
+Problemset-231A : https://codeforces.com/contest/231/problem/A

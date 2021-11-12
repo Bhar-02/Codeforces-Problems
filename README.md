@@ -1,8 +1,7 @@
 Codeforces Problem Links
 
-Problemset-1A : https://codeforces.com/problemset/problem/1/A
-
-Problemset-112A : https://codeforces.com/problemset/problem/112/A
+1.Problemset-1A : https://codeforces.com/problemset/problem/1/A
+2.Problemset-112A : https://codeforces.com/problemset/problem/112/A
 
 Problemset-1551A : https://codeforces.com/problemset/problem/1551/A
 

@@ -17,3 +17,5 @@ Problemset-71A : https://codeforces.com/problemset/problem/71/A
 Problemset-231A : https://codeforces.com/contest/231/problem/A
 
 Problemset-158A : https://codeforces.com/problemset/problem/158/A
+
+Problemset-50A : https://codeforces.com/contest/50/problem/A

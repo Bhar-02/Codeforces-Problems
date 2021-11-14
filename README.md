@@ -19,3 +19,5 @@ Problemset-231A : https://codeforces.com/contest/231/problem/A
 Problemset-158A : https://codeforces.com/problemset/problem/158/A
 
 Problemset-50A : https://codeforces.com/contest/50/problem/A
+
+Problemset-282A : https://codeforces.com/problemset/problem/282/A
